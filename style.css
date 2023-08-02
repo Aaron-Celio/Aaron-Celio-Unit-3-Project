@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+background-color:grey;
+  color:black;
+}
+
+img {
+    width: 350px;
+  border: 10px solid black;
+  margin: 10px;
+  border-radius: 25px;
+  box-shadow: 5px 10px white;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content:center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.ending{
+ margin:0;
+}
+
+button {
+    height: 40px;
+  border-radius:25px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+
+.option-one-screen{
+   display:none;
+}
+
+
+.option-two-screen{
+   display:none;
+}
+
+
+.option-one-end{
+   display:none;
+}
+
+
+
+.option-two-end{
+   display:none;
+}
+
+.true-ending{
+  display:none;
+}
+
+.guitar{
+  display:none;
+}
